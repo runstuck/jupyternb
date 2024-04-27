@@ -1,11 +1,12 @@
-# Meine Jupyter Notebooks
+# Jupyter Notebooks
 
-Hier ist eine Sammlung von Jupyter Notebooks, die ich für verschiedene Projekte und Demos erstellt habe. Jedes Notebook kann über Binder interaktiv genutzt werden.
+kleine Notebooks:
 
 ## Notebook 1: Beispielanalyse
 
 - **Beschreibung**: Dieses Notebook führt eine einfache Datenanalyse durch.
-- **Binder**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deinUsername/deinRepo/HEAD?filepath=pfadZumNotebook1.ipynb)
+- **Binder**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/runstuck/jupyternb/HEAD?filepath=ZeilenOperationen_GA.ipynb)
+- ZeilenOperationen_GA.ipynb
 
 ## Notebook 2: Maschinelles Lernen
 
